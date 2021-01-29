@@ -8,8 +8,8 @@
             "Machine Learning",             "Deep Learning", &          "Computer Vision"
 
 - 📫 How to reach me: 
-            [@Anant-Linkedin](https://www.linkedin.com/in/anant--dashpute/) on linkedin
-            [@Anant-Gmail](anantdashpute1996@gmail.com) on Email
+           -- [@Anant-Linkedin](https://www.linkedin.com/in/anant--dashpute/) on linkedin
+           -- [@Anant-Gmail](anantdashpute1996@gmail.com) on Email
 
 - ⚡ Fun fact: You transmit more signal when you don’t see
 
