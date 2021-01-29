@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-- I have Completed Graduation In Electronics and Telcommunication
-- Pursuing Post Graduation in "Machine learning and Computing" At ## Indian Institute Of Space Science And Resaerch
+#### Acadmic Background
+- Completed Graduation In Electronics and Telcommunication 
+- Pursuing Post Graduation in "Machine learning and Computing"  At Indian Institute Of Space Science And Resaerch
+
+
+---
+
 - 🔭 I’m currently working on 
             "Healthcare Chatbot"
             
