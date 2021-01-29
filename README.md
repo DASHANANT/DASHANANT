@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**DASHANANT/DASHANANT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on 
+            "Healthcare Chatbot"
+            
+- 🌱 I’m currently learning 
+            "Machine Learning",
+            "Deep Learning",
+            "Computer Vision"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: 
+- [@Anant-Linkedin](https://www.linkedin.com/in/anant--dashpute/) on linkedin
+- [@Anant-Gmail](anantdashpute1996@gmail.com) on Email
+
+- ⚡ Fun fact: You transmit more signal when you don’t see
+
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
