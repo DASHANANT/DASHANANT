@@ -8,10 +8,13 @@
 ---
 
 - 🔭 I’m currently working on 
-            "Healthcare Chatbot"
+            "NLP"
             
 - 🌱 I’m currently learning 
-            "Machine Learning",             "Deep Learning", &          "Computer Vision"
+            --"Machine Learning"
+            --"Deep Learning"
+            --"Computer Vision"
+            --"Internet Of Things"
 
 - 📫 How to reach me: 
            -- [@Anant-Linkedin](https://www.linkedin.com/in/anant--dashpute/) on linkedin
