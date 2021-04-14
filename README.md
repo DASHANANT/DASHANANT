@@ -7,12 +7,12 @@
 
 ---
 
-- 🔭 I’m currently working on "ML-IOT Project"           
+- 🔭 I’m currently working on "Word Sense Disambiguation"           
             
 - 🌱 I’m currently learning 
             --"Machine Learning & Natural language processing"
             --"Statistical Analysis"
-            --"Computer Vision"
+            --"Computer Vision & Deep Neural Network"
             --"Internet Of Things"
 
 - 📫 How to reach me: 
