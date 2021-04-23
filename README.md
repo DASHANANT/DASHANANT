@@ -7,7 +7,8 @@
 
 ---
 
-- 🔭 I’m currently working on "Word Sense Disambiguation"           
+- 🔭 I’m currently working on "Word Sense Disambiguation research"
+                                              
             
 - 🌱 I’m currently learning 
             --"Machine Learning & Natural language processing"
@@ -21,6 +22,6 @@
          
 
 - ⚡ Fun fact: You transmit more signal when you don’t see
-- ⚡ Fun fact: Your Heartbit signal can pass through two or more walls
+
 
 ------------------------------------------------------------------------------------------------------------------------------
