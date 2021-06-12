@@ -1,7 +1,7 @@
 ### About Me
 
 #### Acadmic Background
-- Electronics and Telcommunication Graduate  
+- Graduation in Electronics and Telcommunication 
 - Pursuing Post Graduation in "Machine learning and Computing"  At Indian Institute Of Space Science And Resaerch
 
 
