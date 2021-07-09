@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 I’m currently working on "Word Sense Disambiguation research"
+- 🔭 I’m currently working on "Radar Signal Classification"
                                               
             
 - 🌱 I’m currently learning 
