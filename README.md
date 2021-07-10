@@ -7,10 +7,10 @@
 - 🔭 I’m currently working on "Radar Signal Classification"                                           
             
 - 🌱 I’m currently learning 
-            --"Machine Learning & Natural language processing"
-            --"Statistical Analysis"
-            --"Computer Vision & Deep Neural Network"
-            --"Internet Of Things"
+            -"Machine Learning & Natural language processing"
+            -"Statistical Analysis"
+            -"Computer Vision & Deep Neural Network"
+            -"Internet Of Things"
 
 - 📫 How to reach me: 
            -- [@Anant-Linkedin](https://www.linkedin.com/in/anant--dashpute/) 
