@@ -1,6 +1,3 @@
-### About Me
-I love to play Basketball when i am free
-Computer vision and Space Talks are my intrest
 
 #### Acadmic Background
 - Graduation in Electronics and Telcommunication 
