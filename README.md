@@ -24,13 +24,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DASHANANT&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DASHANANT&theme=tokyonight" />
 </p>
-
-
-
 ------------------------------------------------------------------------------------------------------------------------------
-
-
-
 [![](https://raw.githubusercontent.com/DASHANANT/DASHANANT/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![](https://raw.githubusercontent.com/DASHANANT/DASHANANT/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
