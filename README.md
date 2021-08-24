@@ -15,7 +15,10 @@
             -"Internet Of Things"
 
 - 📫 How to reach me: 
+- Linkedin
            -- [@Anant-Linkedin](https://www.linkedin.com/in/anant--dashpute/) 
+- Read my blogs           
+           -- [medium](https://medium.com/@anantdashpute)
            
           
 ------------------------------------------------------------------------------------------------------------------------------
