@@ -6,7 +6,7 @@ Anant Dashpute
 - Graduation in Electronics and Telcommunication 
 - Post Graduation in **Machine learning and Computing
 
-- 🔭 I’m currently working on **"Radar Signal Classification"                                           
+- 🔭 I’m currently working on **"Radar Signal Classification project"                                           
             
 - 🌱 I’m currently learning   **C plus plus
             
