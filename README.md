@@ -1,7 +1,6 @@
 
 Anant Dashpute
 ------------------------------------------------------------------------------------------------------------------------------
-![](https://github.com/DASHANANT/DASHANANT/blob/main/PIC.jpeg)
 
 #### Acadmic Background
 - Graduation in Electronics and Telcommunication 
