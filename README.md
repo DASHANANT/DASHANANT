@@ -4,11 +4,11 @@ Anant Dashpute
 
 #### Acadmic Background
 - Graduation in Electronics and Telcommunication 
-- Post Graduation in **Machine learning and Computing
+- Post Graduation in *Machine learning and Computing*
 
-- 🔭 I’m currently working on **"Radar Signal Classification project"                                           
+- 🔭 I’m currently working on *"Radar Signal Classification project"*                                           
             
-- 🌱 I’m currently learning   **C plus plus
+- 🌱 I’m currently learning   *C plus plus*
             
 
 - 📫 How to reach me: 
