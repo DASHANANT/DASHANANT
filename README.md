@@ -1,17 +1,16 @@
 
-Anant Dashpute
+# Anant Dashpute
 ------------------------------------------------------------------------------------------------------------------------------
 
-#### Acadmic Background
+### Acadmic Background
 - Graduation in Electronics and Telcommunication 
 - Post Graduation in Machine learning and Computing
 
  
-- 📫 How to reach me: 
+📫 How to reach me: 
 - Linkedin
            -- [@Anant-Linkedin](https://www.linkedin.com/in/anant--dashpute/) 
-- Read my blogs           
-           -- [@Anant-Medium](https://medium.com/@anantdashpute)
+
            
           
 ------------------------------------------------------------------------------------------------------------------------------
