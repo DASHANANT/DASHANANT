@@ -1,5 +1,5 @@
 
-# Anant Dashpute
+Anant Dashpute
 ------------------------------------------------------------------------------------------------------------------------------
 
 ### Acadmic Background
@@ -8,10 +8,15 @@
 
  
 📫 How to reach me: 
-- Linkedin
-           -- [@Anant-Linkedin](https://www.linkedin.com/in/anant--dashpute/) 
+---------------------------------------------
 
-           
+Linkedin
+=================================
+ [@Anant-Linkedin](https://www.linkedin.com/in/anant--dashpute/) 
+
+Homepage
+==================================
+ https://dashanant.github.io/Homepage/
           
 ------------------------------------------------------------------------------------------------------------------------------
 
